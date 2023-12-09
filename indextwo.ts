@@ -1,1 +1,3 @@
-console.log("Testing")
+function add (x: number,y: number){
+    return x + y;
+}
